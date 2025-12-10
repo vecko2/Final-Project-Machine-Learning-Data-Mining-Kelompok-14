@@ -1,1 +1,1 @@
-# Sudy Performance Prediction Based on the OULAD Dataset
+# Study Result Prediction Based on the OULAD Dataset
