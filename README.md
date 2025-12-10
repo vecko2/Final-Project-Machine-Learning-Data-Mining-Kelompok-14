@@ -4,4 +4,4 @@ Anggota Kelompok
 |-------------------|------------|
 | Nazhif Berlian Nashrullah            | 5054241035      |
 | Sitti Aminah     | 5054241041      |
-| nama            | 5054241035      |
+| Muhammad Fathur Aziz            | 5054241043      |
